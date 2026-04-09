@@ -1,0 +1,14 @@
+name: yolo_pushup_counter_env
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - opencv
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pip:
+      - ultralytics
