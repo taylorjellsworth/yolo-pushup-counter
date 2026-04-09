@@ -3,7 +3,7 @@
 ## Overview
 This project is a form feedback system using YOLO v8 pose estimation and OpenCV to count pushups in real-time from a video mp4 file. It captures a joint angle keypoint model between the shoulder-elbow-wrist to track the movement of the body to determine when a pushup is completed.  The pushup count is displayed in the top left corner of the video frame.
 
-https://github.com/user-attachments/assets/bb711a9f-4b14-43ce-b479-17ba5e9caec4
+![Pushup_Counter_Trim-ezgif com-optimize](https://github.com/user-attachments/assets/7ae5985c-829e-441e-b0f2-63c0246485d5)
 
 ## Steps to Run
 1. Create conda env from environment.yml: `conda env create -f environment.yml`
