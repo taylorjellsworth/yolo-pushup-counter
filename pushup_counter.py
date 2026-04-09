@@ -74,7 +74,7 @@ def execute_yolo_pushup_counter(path, model):
     )
 
     # Uncomment to show video frames
-    # cv2.dimshow(frame)
+    # cv2.imshow("Pushup Counter", frame)
 
     # Exit on ESC key
     key = cv2.waitKey(1) & 0xFF
